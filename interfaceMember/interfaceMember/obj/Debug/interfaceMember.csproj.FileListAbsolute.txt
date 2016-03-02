@@ -1,0 +1,17 @@
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\interfaceMember.exe.config
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\interfaceMember.exe
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\interfaceMember.pdb
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\System.Web.Mvc.dll
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\System.Web.Razor.dll
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\System.Web.WebPages.dll
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\System.Web.Mvc.xml
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\System.Web.Razor.xml
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\System.Web.WebPages.xml
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\Microsoft.Web.Infrastructure.xml
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\obj\Debug\interfaceMember.exe
+c:\users\kagnihotri.internal\documents\visual studio 2015\Projects\interfaceMember\interfaceMember\obj\Debug\interfaceMember.pdb
